@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Lemon",
+    "img": "http://i.huffpost.com/gen/1293800/images/o-LEMONS-facebook.jpg",
+    "price": 0.99,
+    "stars": 4
+  },
+  {
+    "id": 2,
+    "name": "Coca-Cola",
+    "img": "https://i5.walmartimages.com/asr/e03de7a8-c0a3-48ed-a107-6eec5ebddfaa_1.920a6b4429182a0c2a9291ff5824464f.jpeg",
+    "price": 1.49,
+    "stars": 5
+  },
+  {
+    "id": 3,
+    "name": "Bag of Chips",
+    "img": "https://i5.walmartimages.com/asr/b9e26083-19eb-42f1-87ef-c453512ff91c.cce572a868f4bbe7c523a64e76914bee.jpeg",
+    "price": 2.49,
+    "stars": 4
+  },
+  {
+    "id": 4,
+    "name": "Bottle of Water",
+    "img": "https://i5.walmartimages.com/asr/d33cda9b-fa38-4199-aa34-8ec8cc133722_1.084629003f0e2fc966652065e4542ab3.jpeg",
+    "price": 1.0,
+    "stars": 5
+  },
+  {
+    "id": 5,
+    "name": "Candy Bar",
+    "img": "https://i5.walmartimages.com/asr/44385c58-dfd5-4f66-8219-3c604eaa0fdd_1.c5099207f0af80887b80e7b90ff115d9.jpeg",
+    "price": 0.79,
+    "stars": 3
+  },
+  {
+    "id": 6,
+    "name": "Energy Drink",
+    "img": "https://tse2.mm.bing.net/th?id=OIP.uWz9mOcJteLr_wlPU82CBwHaFj&pid=Api&P=0&h=220",
+    "price": 2.99,
+    "stars": 4
+  }
+]
